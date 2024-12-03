@@ -25,7 +25,7 @@ python flops.py
 python cal_time.py
 ```
 
-Some of our tests on an RTX 3090 are shown in the figure below: ![](result.png)
+Some of our tests on an RTX 3090 are shown in the figure below: ![](de3cdc7b226245ef4d59fa8111260c9.png)
 
 Datasets and Training
 For the evaluators of this project, the PMD_split dataset can be obtained from [PMD](https://jiaying.link/cvpr2020-pgd/). Although they have not released the training code, we implemented the training code based on the descriptions in their paper. We also wrote a dataloader according to the dataset structure. Training can be done with:
