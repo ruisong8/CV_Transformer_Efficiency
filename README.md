@@ -45,7 +45,7 @@ The dataset for AIGC Detection uses the CS4487 Machine Learning 24/25 semA Proje
 python train_AIGC.py
 ```
 
-The way to implement the adapters mentioned in the report can be obtained by [**ViT-Adapter**](https://github.com/czczup/ViT-Adapter) and [**Mona**](https://github.com/Leiyi-Hu/mona).
+The implementation of the adapters mentioned in the report can be obtained by [**ViT-Adapter**](https://github.com/czczup/ViT-Adapter) and [**Mona**](https://github.com/Leiyi-Hu/mona).
 
 ## Acknowledgement
 Once again, we would like to thank [**THOP**](https://github.com/ultralytics/thop), [**fvcore**](https://github.com/facebookresearch/fvcore), [**ptflops**](https://github.com/sovrasov/flops-counter.pytorch), [**calflops**](https://github.com/MrYxJ/calculate-flops.pytorch), and [**PMD**](https://jiaying.link/cvpr2020-pgd/) for their contributions to the open-source community.
