@@ -46,4 +46,4 @@ python train_AIGC.py
 ```
 
 ## Acknowledgement
-Once again, we would like to thank [**THOP**](https://github.com/ultralytics/thop), [**fvcore**](https://github.com/facebookresearch/fvcore), [**ptflops**](https://github.com/sovrasov/flops-counter.pytorch), [**calflops**](https://github.com/MrYxJ/calculate-flops.pytorch), and [**fvcore**](https://jiaying.link/cvpr2020-pgd/) for their contributions to the open-source community.
+Once again, we would like to thank [**THOP**](https://github.com/ultralytics/thop), [**fvcore**](https://github.com/facebookresearch/fvcore), [**ptflops**](https://github.com/sovrasov/flops-counter.pytorch), [**calflops**](https://github.com/MrYxJ/calculate-flops.pytorch), and [**PMD**](https://jiaying.link/cvpr2020-pgd/) for their contributions to the open-source community.
