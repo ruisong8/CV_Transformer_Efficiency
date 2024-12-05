@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We are from CityU GE2340 AI: Past, Present, & Future Group 32. This repository contains some of the code used in our project. We have gathered various libraries that compute the network's MACs and Params, and we found a [method](https://blog.csdn.net/rayso9898/article/details/130006580) for calculating the inference speed of the network.
+We are from CityU GE2340 AI: Past, Present, & Future Group 32. This repository contains some of the code used in our project. For those who are not familiar with our project, this repository have gathered various libraries that compute the network's MACs and Params, and found a [method](https://blog.csdn.net/rayso9898/article/details/130006580) for calculating the inference speed of the network.
 
 We would like to thank [**THOP**](https://github.com/ultralytics/thop), [**fvcore**](https://github.com/facebookresearch/fvcore), [**ptflops**](https://github.com/sovrasov/flops-counter.pytorch), and [**calflops**](https://github.com/MrYxJ/calculate-flops.pytorch) for their contributions. This repository is just a collection.
 
